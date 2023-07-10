@@ -3,7 +3,7 @@
 // It ensures logs are in a format to be well consumed by stackdriver.
 // It will report any errors to stackdriver by writing errors in the correct
 // way
-package logging
+package sdl
 
 import (
 	"fmt"

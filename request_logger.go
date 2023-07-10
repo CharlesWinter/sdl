@@ -1,4 +1,4 @@
-package logging
+package sdl
 
 import (
 	"errors"
